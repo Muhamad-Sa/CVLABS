@@ -1,1 +1,2 @@
-This file is for any text that will be added 
+This file is for any text that will be added
+I have added a new line 

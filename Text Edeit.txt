@@ -1,2 +1,6 @@
 This file is for any text that will be added
 Muhamad Samir 
+I have added a new line (inst)
+New Line
+hello am inst 
+main
